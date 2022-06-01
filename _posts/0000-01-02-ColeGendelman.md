@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+> Whether you think your can or you can't, you're right
 Use the left arrow to go back!
